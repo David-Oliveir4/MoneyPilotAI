@@ -28,12 +28,6 @@ O MoneyPilot AI é um assistente inteligente que:
 
 ---
 
-## 💰 **Monetização**
-- Versão gratuita: simulações básicas
-- Versão paga (assinatura): relatórios completos, mais consultas, alertas ilimitados
-- Parcerias com corretoras: comissão por indicação
-
----
 
 ## 📊 **Fluxo resumido**
 1. Usuário faz login
